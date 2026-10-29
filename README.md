@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # VeriPINN-Dataset
 Dataset for VeriPINN training and inference
-=======
+
 # LLC Converter Simulation Dataset
 
 Simulated waveforms of a full-bridge LLC resonant converter, generated with MATLAB/Simulink.
@@ -104,4 +103,5 @@ Each script saves its `.mat` file next to itself. Results can differ slightly ac
 | `ro5` | $R_o$ = 5 Ω |
 | `vin280`, `vin340` | $V_{in}$ = 280 V / 340 V (training data uses 311 V only) |
 | `fs85k` | $f_s$ = 85 kHz (training data uses 90 kHz only) |
->>>>>>> 6d7c6b7 (first commit)
+
+
